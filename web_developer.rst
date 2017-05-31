@@ -34,25 +34,25 @@ Among others things we're strong advocates of testing. Testing guarantees
 quality, easy collaboration and worry-free maintenance and upgrade. We expect
 candidates to have knowledge with testing methodology.
 
-If you do have working experience with testing, great!  We want to know more.
+If you do have working experience with tests, great!  We want to know more.
 How much?  How did you write your tests? How have you used TDD on a recent
 project? What problems have you faced? The more the better.
 
 The role
 --------
 
-Our teams are project-oriented, self-organizing. You'll be working directly
+Our teams are project-oriented and self-organizing. You'll be working directly
 with our Product Managers and stakeholders in a highly collaborative manners.
 This approach requires a huge amount of teamwork and maturity and is not right
 for everyone, but we believe it's the best way to create great software.
 
 Projects address various concerns from client requirements to long term
 architectural planning. You can fit in any project according to your skills and
-wishes, bring your experience, and learn from your collaborators.
+wishes, bring your experience and learn from your collaborators.
 
 We expect our developers to deliver quality software. This is achieved by
-reviewing each other's code using merge requests via Git. As such an automated
-test and deployment suite is part of every project.
+reviewing each other's code using merge requests via Git. An automated
+test and deployment suite is also part of every project.
 
 Among others things, Pair Programming, TDD/BDD, Refactoring and Continuous
 Delivery are deeply embedded and we're constantly striving to improve the way
